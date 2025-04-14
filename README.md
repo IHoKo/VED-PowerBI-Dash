@@ -110,4 +110,6 @@ The Power BI dashboard offers a comprehensive overview of vehicle performance an
 ## 📸 Dashboard Preview
 ![Screenshot 2025-04-14 133112](https://github.com/user-attachments/assets/095f1317-7c59-4ef7-9fe8-7d540b008577)
 
+![Screenshot 2025-04-14 144934](https://github.com/user-attachments/assets/cec2171e-55c3-4551-b513-fc049d802ca3)
 
+![Screenshot 2025-04-14 145006](https://github.com/user-attachments/assets/c1050711-9744-45ee-b9d9-58a818f0deb9)
