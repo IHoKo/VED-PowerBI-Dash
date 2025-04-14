@@ -67,8 +67,7 @@ The Power BI dashboard offers a comprehensive overview of vehicle performance an
 - 📍 **Click on a vehicle bar** in the *Average Load %* chart to filter the trip map and see only the trips taken by that specific vehicle.
 
 - **🔋 HV Battery SOC (State of Charge)**  
-  - Shows the SOC per vehicle as a sorted bar chart.  
-  - Helps identify variations in battery levels and usage patterns across the fleet.
+  - Shows the SOC% per vehicle as a sorted line chart.  
 
 - **📈 Average Load %**  
   - Visualizes the average engine load percentage per vehicle.  
