@@ -21,7 +21,7 @@ You can download the dataset from the original source:
 
 ## 🐍 Data Preprocessing (Python)
 
-The `Dynamics` folder contains multiple CSV files—one for each vehicle. Use the following Python script to merge them into a single CSV before loading into Power BI.
+The `Dynamics` folder contains multiple CSV files. Use the following Python script to merge them into a single CSV before loading into Power BI.
 
 ```python
 # Set the path to the downloaded 'Dynamics' folder
