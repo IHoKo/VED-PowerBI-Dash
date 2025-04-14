@@ -56,13 +56,15 @@ The Power BI dashboard offers a comprehensive overview of vehicle performance an
 | **Average Speed (km/h)** | Mean speed across all recorded trips: **40.40 km/h** |
 | **Average Trips per Vehicle** | Average number of trips per vehicle: **10.82** |
 
+> 💡 **Tip:** Hover over cards, pie charts, or bars to view additional tooltip insights. For example, hovering over a slice of the **Engine Type** pie chart will show Engine Configuration Bar chart for each group.
 ---
 
 ### 📍 Visualizations Explained
 
 - **📌 Trip Map (Top Right)**  
-  - Displays all recorded vehicle trips using GPS data.  
-  - Useful for understanding travel density and coverage area.
+- Displays all recorded vehicle trips using GPS data.  
+- Useful for understanding travel density and coverage area.
+- 📍 **Click on a vehicle bar** in the *Average Load %* chart to filter the trip map and see only the trips taken by that specific vehicle.
 
 - **🔋 HV Battery SOC (State of Charge)**  
   - Shows the SOC per vehicle as a sorted bar chart.  
@@ -70,7 +72,8 @@ The Power BI dashboard offers a comprehensive overview of vehicle performance an
 
 - **📈 Average Load %**  
   - Visualizes the average engine load percentage per vehicle.  
-  - Highlights which vehicles are operating under more strain.
+  - ⚡ **Interactive:** Click on a bar to filter other visuals and focus on one vehicle's data.
+
 
 - **🚗 Vehicle Class Distribution**  
   - Pie chart indicating the proportions of cars, SUVs, and other vehicle classes.  
